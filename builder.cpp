@@ -4,7 +4,7 @@
 *   www.algorytm.org                    *
 *   Opracowal Dworak Kamil              *
 *****************************************/
- 
+ http://justkm.pl:8096/web/movies.html
 #include <iostream>
 #include <string>
 using namespace std;
